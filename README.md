@@ -1,5 +1,3 @@
-# Twitch-Chat-Bot
-
 # Twitch Chat Bot
 
 This is a Python project that utilizes the TwitchIO library to create a chat bot for Twitch. The bot is able to connect to a Twitch channel specified by the user and display chat messages in a Tkinter window. Additionally, this bot contains few twitch emojis
