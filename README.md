@@ -7,7 +7,7 @@ This is a Python project that utilizes the TwitchIO library to create a chat bot
 ## Requirements
 
 - Python 3.6 or later
-- TwitchIO library (can be installed via pip)
+- TwitchIO library (can be installed via pip):  pip install twitchio
 - Tkinter library (already included in Python versions)
 
 ## How to use the bot
