@@ -11,15 +11,15 @@ This is a Python project that utilizes the TwitchIO library to create a chat bot
 ## How to use the bot
 
 1. Clone or download the repository.
-2. Open the terminal in the directory where the `twitch_chat_bot.py` file is located.
+2. Open the terminal in the directory where the `main.py` file is located.
 3. Install the TwitchIO library by typing the following command: pip install twitchio
-4. Open the `twitch_chat_bot.py` file in a text editor.
+4. Open the `main.py` file in a text editor.
 5. Insert your OAuth token, Twitch channel username, and custom emojis into the code.
 6. Save the file and close the text editor.
 7. Type the following command to start the bot:
 
 ```
-python twitch_chat_bot.py
+python main.py
 ```
 
 The Tkinter window containing the Twitch chat for the specified channel will be launched.
