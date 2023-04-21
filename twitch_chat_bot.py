@@ -10,7 +10,7 @@ from PIL import Image, ImageTk
 
 
 # Inserisci il tuo token, nome utente e canale di Twitch qui
-TWITCH_TOKEN = 'oauth:tlfztec764cgqx37tcricxn1jtk6w9'
+TWITCH_TOKEN = 'enter the token using this link'  #https://twitchapps.com/tmi/
 TWITCH_CHANNEL = input("Insert the name of the Streamer: ")
 
 # Aggiungi un dizionario per memorizzare le emoji
